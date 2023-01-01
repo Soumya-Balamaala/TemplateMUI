@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/TemplateMUI/static/css/main.ae1dbe2f.css",
+    "main.js": "/TemplateMUI/static/js/main.6d5ecfe3.js",
+    "static/media/BussinessWomen.jpg": "/TemplateMUI/static/media/BussinessWomen.d0d1e7959a8d20ce8cf5.jpg",
+    "static/media/P1.jpg": "/TemplateMUI/static/media/P1.320e917c98f18d6a7d25.jpg",
+    "static/media/P5.jpg": "/TemplateMUI/static/media/P5.eaa770dd7d608a6c45ea.jpg",
+    "static/media/NotFound.jpg": "/TemplateMUI/static/media/NotFound.ab5113bc4d464d2dccd5.jpg",
+    "static/media/P2.jpg": "/TemplateMUI/static/media/P2.09c93a64218edeb43a39.jpg",
+    "static/media/UnderConstruction.jpg": "/TemplateMUI/static/media/UnderConstruction.864899ab6d5881fc2ed1.jpg",
+    "static/media/P3.jpg": "/TemplateMUI/static/media/P3.e8ab14fbcbd80b9a1d60.jpg",
+    "static/media/P4.jpg": "/TemplateMUI/static/media/P4.d2b058bed7ca285c728b.jpg",
+    "index.html": "/TemplateMUI/index.html",
+    "main.ae1dbe2f.css.map": "/TemplateMUI/static/css/main.ae1dbe2f.css.map",
+    "main.6d5ecfe3.js.map": "/TemplateMUI/static/js/main.6d5ecfe3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ae1dbe2f.css",
+    "static/js/main.6d5ecfe3.js"
+  ]
+}
